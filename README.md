@@ -1,5 +1,5 @@
 # Top-100-AI-Aggregator
-Welcome to the Top-100-AI-Aggregator repository! This curated list showcases the top 100 AI tools and resources available today. Whether you're a data scientist, machine learning engineer, or a tech enthusiast, this collection is designed to help you discover, compare, and choose the best AI solutions for your projects. From cutting-edge machine learning platforms to productivity-enhancing AI applications, we've gathered tools from various categories to meet all your AI needs.
+Welcome to the Top-100-AI-Aggregator repository! This list features the top 100 AI tools and resources available today.
 
 # [Submit List](https://toollist.ai)
 
