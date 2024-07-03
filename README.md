@@ -1,13 +1,15 @@
 # Top-100-AI-Aggregator
 A curated list of the top 100 AI tools and resources. Discover, compare, and choose the best AI solutions for your projects. This repository aggregates AI tools from various categories, including machine learning, data science, and productivity applications.
 
-
 # [Submit List](https://toollist.ai)
 
 > A curated list for submitting your startup or side project
 
 This lists the top 100 items of all lists. If you're interested, you can visit [submitlist](https://toollist.ai) to view the complete list and filter based on your requirements.
 **If you find any omissions here, feel free to submit a PR**
+
+# Additional Resources
+For more AI-generated content and creative prompts, visit [PromptZone](https://www.promptzone.com/). Join a community of creative minds to explore and share prompts across various interests.
 
 ## Top 100
 
