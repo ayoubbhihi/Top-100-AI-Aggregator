@@ -5,7 +5,7 @@ A curated list of the top 100 AI tools and resources. Discover, compare, and cho
 
 > A curated list for submitting your startup or side project
 
-This lists the top 100 items of all lists. If you're interested, you can visit [submitlist](https://toollist.ai) to view the complete list and filter based on your requirements.
+This lists the top 100 items of all lists. If you're interested, you can visit [ToolList.Ai](https://toollist.ai) to view the complete list and filter based on your requirements.
 **If you find any omissions here, feel free to submit a PR**
 
 # Additional Resources
