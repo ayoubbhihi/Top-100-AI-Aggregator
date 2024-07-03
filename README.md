@@ -5,7 +5,7 @@ Welcome to the Top-100-AI-Aggregator repository! This curated list showcases the
 
 > A curated list for submitting your startup or side project
 
-This lists the top 100 items of all lists. If you're interested, you can visit [ToolList.Ai](https://toollist.ai) to view the complete list and filter based on your requirements.
+If you would like to add another AI aggregator, you can submit it on our website [ToolList.Ai](https://toollist.ai), and we will update our list accordingly.
 **If you find any omissions here, feel free to submit a PR**
 
 # Additional Resources
